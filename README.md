@@ -4,6 +4,24 @@ DH150: Assignment05-Persona+Scenarios
 ## All 3 Personas + empathy maps:
 https://github.com/samanthachiuu/Assignment5/blob/master/DH150%20Assignment%205.pdf
 
+# Persona 1 Empathy Map:
+Feel: Feels like does not have time to do homework and wants to plan it better. 
+Think: She has time for other things but not homework. 
+Act: Never finishes her homework on time and gets distracted when doing it. 
+Say: "I never know when to do my homework!"
+
+# Persona 2 Empathy Map:
+Feel: Scared because it is her first year and is still getting used to time management. 
+Think: She has a lot of events that she wants go to and can make it work. 
+Act: Always overbooks her schedules and 2 events always overlap each other where she has to decide which one to go to. 
+Say: "I always have things on the same day and same time!"
+
+# Persona 3 Empathy Map:
+Feel: Relaxed and wants to catch up with her friends without bothering them too much. 
+Think: She is bothering her friends all the time asking when they are free and finding a time to meet. 
+Act: She texts all of her friends separately to want to meet for a meal to catch up and has to wait for all of them to respond and see when they are free. 
+Say: "I wish I can just see their schedule without asking them so I can plan when to meet without the hassle of them telling me"
+
 ## Persona #1 Scenario:
 Angie is a very involved student at UCLA and has a lot of weekly club meetings throughout the week. She is also taking 4 classes this quarter so her schedule is jammed pack. She has always been good at putting due dates and events in her calendar but is not very good with finishing her homework on time. Now, she plans ahead and puts down the exact time when she will work on the assignment and what day she will finish the assignment, which is usually the day before it is due. Angie puts down in her calendar that she will do her math homework from 6pm-9pm. When 6pm hits and it is time to do her homework, her social media apps on her phone is locked and she is not able to click into them. She tries to click on Instagram, but a message pops up saying “Do your work!”. Since she does not have social media to distract her, she goes back to doing her homework. After 3 hours of working on her homework, it is 9:01pm and her social media apps pop back open. She is able to continue the next thing on her calendar or finish up her work.  
 
