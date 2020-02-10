@@ -1,7 +1,7 @@
 # Assignment5
 DH150: Assignment05-Persona+Scenarios
 
-# All 3 Personas + empathy maps:
+## All 3 Personas + empathy maps:
 https://github.com/samanthachiuu/Assignment5/blob/master/DH150%20Assignment%205.pdf
 
 ### Persona 1 Empathy Map:
