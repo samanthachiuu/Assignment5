@@ -1,7 +1,8 @@
 # Assignment5
 DH150: Assignment05-Persona+Scenarios
 
-All 3 Personas + empathy maps: https://github.com/samanthachiuu/Assignment5/blob/master/DH150%20Assignment%205.pdf
+## All 3 Personas + empathy maps:
+https://github.com/samanthachiuu/Assignment5/blob/master/DH150%20Assignment%205.pdf
 
 ## Persona #1 Scenario:
 Angie is a very involved student at UCLA and has a lot of weekly club meetings throughout the week. She is also taking 4 classes this quarter so her schedule is jammed pack. She has always been good at putting due dates and events in her calendar but is not very good with finishing her homework on time. Now, she plans ahead and puts down the exact time when she will work on the assignment and what day she will finish the assignment, which is usually the day before it is due. Angie puts down in her calendar that she will do her math homework from 6pm-9pm. When 6pm hits and it is time to do her homework, her social media apps on her phone is locked and she is not able to click into them. She tries to click on Instagram, but a message pops up saying “Do your work!”. Since she does not have social media to distract her, she goes back to doing her homework. After 3 hours of working on her homework, it is 9:01pm and her social media apps pop back open. She is able to continue the next thing on her calendar or finish up her work.  
