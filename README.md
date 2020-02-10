@@ -1,22 +1,22 @@
 # Assignment5
 DH150: Assignment05-Persona+Scenarios
 
-## All 3 Personas + empathy maps:
+# All 3 Personas + empathy maps:
 https://github.com/samanthachiuu/Assignment5/blob/master/DH150%20Assignment%205.pdf
 
-# Persona 1 Empathy Map:
+### Persona 1 Empathy Map:
 Feel: Feels like does not have time to do homework and wants to plan it better. 
 Think: She has time for other things but not homework. 
 Act: Never finishes her homework on time and gets distracted when doing it. 
 Say: "I never know when to do my homework!"
 
-# Persona 2 Empathy Map:
+### Persona 2 Empathy Map:
 Feel: Scared because it is her first year and is still getting used to time management. 
 Think: She has a lot of events that she wants go to and can make it work. 
 Act: Always overbooks her schedules and 2 events always overlap each other where she has to decide which one to go to. 
 Say: "I always have things on the same day and same time!"
 
-# Persona 3 Empathy Map:
+### Persona 3 Empathy Map:
 Feel: Relaxed and wants to catch up with her friends without bothering them too much. 
 Think: She is bothering her friends all the time asking when they are free and finding a time to meet. 
 Act: She texts all of her friends separately to want to meet for a meal to catch up and has to wait for all of them to respond and see when they are free. 
