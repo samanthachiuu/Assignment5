@@ -3,6 +3,9 @@ DH150: Assignment05-Persona+Scenarios
 
 ## All 3 Personas + empathy maps:
 https://github.com/samanthachiuu/Assignment5/blob/master/DH150%20Assignment%205.pdf
+![download (1)](https://user-images.githubusercontent.com/59623131/75843809-02f90b80-5d89-11ea-8f65-e487b5a144c4.png)
+![download (2)](https://user-images.githubusercontent.com/59623131/75843811-05f3fc00-5d89-11ea-8396-551a834825e3.png)
+![download](https://user-images.githubusercontent.com/59623131/75843817-09878300-5d89-11ea-80f2-b1054cc38cd8.png)
 
 ### Persona 1 Empathy Map:
 Feel: Feels like does not have time to do homework and wants to plan it better. 
